@@ -17,9 +17,13 @@ Features
 Project Structure
 
 ├── main.py                # Main script: caption generation + gTTS
+
 ├── reference_captions.py  # Caption utilities and language support
+
 ├── front.html             # Web interface for upload & language selection
+
 ├── requirements.txt       # Dependencies (gTTS, transformers, etc.)
+
 └── Project_Report.pdf     # Detailed documentation
 
 Installation
