@@ -27,6 +27,7 @@ Project Structure
 └── Project_Report.pdf     # Detailed documentation
 
 Installation
+
 git clone https://github.com/ForhadAhmedKhan/Multilingual-Captioning-with-T2S.git
 cd Multilingual-Captioning-with-T2S
 
